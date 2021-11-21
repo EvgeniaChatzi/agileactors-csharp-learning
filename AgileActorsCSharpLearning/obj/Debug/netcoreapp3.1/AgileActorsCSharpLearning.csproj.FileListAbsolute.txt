@@ -1,0 +1,14 @@
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\obj\Debug\netcoreapp3.1\AgileActorsCSharpLearning.csproj.AssemblyReference.cache
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\obj\Debug\netcoreapp3.1\AgileActorsCSharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\obj\Debug\netcoreapp3.1\AgileActorsCSharpLearning.AssemblyInfoInputs.cache
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\obj\Debug\netcoreapp3.1\AgileActorsCSharpLearning.AssemblyInfo.cs
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\obj\Debug\netcoreapp3.1\AgileActorsCSharpLearning.csproj.CoreCompileInputs.cache
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\bin\Debug\netcoreapp3.1\AgileActorsCSharpLearning.exe
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\bin\Debug\netcoreapp3.1\AgileActorsCSharpLearning.deps.json
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\bin\Debug\netcoreapp3.1\AgileActorsCSharpLearning.runtimeconfig.json
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\bin\Debug\netcoreapp3.1\AgileActorsCSharpLearning.runtimeconfig.dev.json
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\bin\Debug\netcoreapp3.1\AgileActorsCSharpLearning.dll
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\bin\Debug\netcoreapp3.1\AgileActorsCSharpLearning.pdb
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\obj\Debug\netcoreapp3.1\AgileActorsCSharpLearning.dll
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\obj\Debug\netcoreapp3.1\AgileActorsCSharpLearning.pdb
+C:\code\AgileActorsCSharp\AgileActorsCSharpLearning\obj\Debug\netcoreapp3.1\AgileActorsCSharpLearning.genruntimeconfig.cache
