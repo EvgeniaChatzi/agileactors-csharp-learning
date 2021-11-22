@@ -1,0 +1,14 @@
+C:\code\AgileActorsCSharp\Lesson3Exercise6\bin\Debug\netcoreapp3.1\Lesson3Exercise6.exe
+C:\code\AgileActorsCSharp\Lesson3Exercise6\bin\Debug\netcoreapp3.1\Lesson3Exercise6.deps.json
+C:\code\AgileActorsCSharp\Lesson3Exercise6\bin\Debug\netcoreapp3.1\Lesson3Exercise6.runtimeconfig.json
+C:\code\AgileActorsCSharp\Lesson3Exercise6\bin\Debug\netcoreapp3.1\Lesson3Exercise6.runtimeconfig.dev.json
+C:\code\AgileActorsCSharp\Lesson3Exercise6\bin\Debug\netcoreapp3.1\Lesson3Exercise6.dll
+C:\code\AgileActorsCSharp\Lesson3Exercise6\bin\Debug\netcoreapp3.1\Lesson3Exercise6.pdb
+C:\code\AgileActorsCSharp\Lesson3Exercise6\obj\Debug\netcoreapp3.1\Lesson3Exercise6.csproj.AssemblyReference.cache
+C:\code\AgileActorsCSharp\Lesson3Exercise6\obj\Debug\netcoreapp3.1\Lesson3Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\AgileActorsCSharp\Lesson3Exercise6\obj\Debug\netcoreapp3.1\Lesson3Exercise6.AssemblyInfoInputs.cache
+C:\code\AgileActorsCSharp\Lesson3Exercise6\obj\Debug\netcoreapp3.1\Lesson3Exercise6.AssemblyInfo.cs
+C:\code\AgileActorsCSharp\Lesson3Exercise6\obj\Debug\netcoreapp3.1\Lesson3Exercise6.csproj.CoreCompileInputs.cache
+C:\code\AgileActorsCSharp\Lesson3Exercise6\obj\Debug\netcoreapp3.1\Lesson3Exercise6.dll
+C:\code\AgileActorsCSharp\Lesson3Exercise6\obj\Debug\netcoreapp3.1\Lesson3Exercise6.pdb
+C:\code\AgileActorsCSharp\Lesson3Exercise6\obj\Debug\netcoreapp3.1\Lesson3Exercise6.genruntimeconfig.cache
